@@ -7,7 +7,6 @@
 # Description of Program: Use course info to create a Grade calculator
 
 from math import *
-from random import random
 
 #Error Messages
 HW_ERROR_MESSAGE = "  Grade must be in range [0..10]. Try again."
